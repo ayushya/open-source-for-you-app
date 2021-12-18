@@ -1,5 +1,7 @@
 # Open Source For you
 
+A sample react app to Build with GitHub Actions and Deploy over GitHub Pages. 
+
 ## Build Status
 ![CI](https://github.com/ayushya/open-source-for-you-app/workflows/CI/badge.svg)
 
