@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/open-source-for-you-app/static/css/main.073c9b0a.css",
+    "main.js": "/open-source-for-you-app/static/js/main.2195c146.js",
+    "static/js/787.de72a9cf.chunk.js": "/open-source-for-you-app/static/js/787.de72a9cf.chunk.js",
+    "static/media/logo.svg": "/open-source-for-you-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/open-source-for-you-app/index.html",
+    "main.073c9b0a.css.map": "/open-source-for-you-app/static/css/main.073c9b0a.css.map",
+    "main.2195c146.js.map": "/open-source-for-you-app/static/js/main.2195c146.js.map",
+    "787.de72a9cf.chunk.js.map": "/open-source-for-you-app/static/js/787.de72a9cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2195c146.js"
+  ]
+}
